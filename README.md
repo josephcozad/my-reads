@@ -1,13 +1,11 @@
 # My Reads (Project)
 
-This is a [Udacity ReactJS Nanodegree][https://www.udacity.com/course/react-nanodegree--nd019] project that tracks books being read, books that are in the queue to be read or have already been read.
+This is a Udacity ReactJS Nanodegree project that tracks books being read, books that are in the queue to be read or have already been read.
 
 ## Install
 
-Install the module directly from npm:
-
 ```
-git clone https://github.com/josephcozad/my-reads-project.git
+git clone https://github.com/josephcozad/my-reads.git
 cd my-reads
 npm install my-reads
 npm start
