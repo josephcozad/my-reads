@@ -17,11 +17,11 @@ class BooksApp extends React.Component {
     });
   }
 
-  moveBook = (book, shelf) => {
-    BooksAPI.update(book, shelf);
-    BooksAPI.getAll().then((books) => {
-      this.setState({ books: books });
-    });
+  moveBook = async (book, shelf) => {
+    await BooksAPI.update(book, shelf)
+    await BooksAPI.getAll().then(books => {
+         this.setState({ books: books })
+    })
   }
 
   render() {
