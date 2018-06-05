@@ -1,6 +1,6 @@
 # My Reads (Project)
 
-This is a Udacity ReactJS Nanodegree project that tracks books being read, books that are in the queue to be read or have already been read.
+This is a Udacity ReactJS Nanodegree project that tracks books being read, books that are in the queue to be read or have already been read. Requirements for this project are contained in the [MyReadsReq pdf](https://github.com/josephcozad/my-reads/blob/master/MyReadsReq.pdf).
 
 ## Install
 
